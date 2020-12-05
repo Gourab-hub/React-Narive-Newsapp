@@ -1,1 +1,1 @@
-# React-Narive-Newsapp
+# React-Native-Newsapp
